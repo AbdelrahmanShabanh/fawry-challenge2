@@ -26,9 +26,9 @@ Welcome to the **Bookstore Management System** — a Java-based OOP project that
 
 ---
 ## output sample
-![Banner](assets/Screenshot_2025-07-08_191649.png)
+![Banner](assets/Screenshot 2025-07-08 191649.png)
 
-![Banner](assets/Screenshot_2025-07-08_191708.png)
+![Banner](assets/Screenshot 2025-07-08 191708.png)
 
 
 
